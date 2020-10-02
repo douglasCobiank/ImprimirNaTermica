@@ -1,0 +1,30 @@
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Impressora Termica.exe.config
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Impressora Termica.exe
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Impressora Termica.pdb
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Csv.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\FluentFTP.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\SdkApi.Core.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\SdkApi.Desktop.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\SdkApi.Desktop.Usb.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\SharpSnmpLib.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\ZebraPrinterSdk.dll
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Csv.xml
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\FluentFTP.xml
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\SdkApi.Core.xml
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\SdkApi.Desktop.xml
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\ZebraPrinterSdk.xml
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora Termica.csprojAssemblyReference.cache
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora_Termica.Properties.Resources.resources
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora Termica.csproj.GenerateResource.cache
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora Termica.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora Termica.csproj.CopyComplete
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora Termica.exe
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora Termica.pdb
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\obj\Debug\Impressora_Termica.F_Imprimir.resources
+C:\Users\user.DESKTOP-V1182E3\Desktop\Teste\Impressora\Impressora Termica\Impressora Termica\bin\Debug\RawPrint.dll
